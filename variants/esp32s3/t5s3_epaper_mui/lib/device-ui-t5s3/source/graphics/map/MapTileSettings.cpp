@@ -1,0 +1,22 @@
+#include "graphics/map/MapTileSettings.h"
+#include "lv_conf.h"
+#include "lvgl.h"
+
+uint8_t MapTileSettings::zoomLevel = 13;   // current zoomLevel
+uint8_t MapTileSettings::zoomDefault = 13; // default for initial or home position
+uint16_t MapTileSettings::tileSize = 256;
+int16_t MapTileSettings::tileProviderId = -1;       // default url index to load from (backup service)
+uint32_t MapTileSettings::cacheSize = 50 * 1024;    // LV_FS_CACHE_FROM_BUFFER
+uint32_t MapTileSettings::uniqueId = 0xFFFFFFFF;    // to be updated with node number
+float MapTileSettings::defaultLat = 51.5003646652f; // @theBigBentern
+float MapTileSettings::defaultLon = -0.1214328476f;
+char MapTileSettings::prefix[MapTileSettings::PREFIX_SIZE] = "/maps";        // default map tile directory
+char MapTileSettings::tileStyle[MapTileSettings::TILE_STYLE_SIZE] = "";      // { osm/, atlas/, atlas-mobile/, ...}
+char MapTileSettings::tileFormat[MapTileSettings::TILE_FORMAT_SIZE] = "png"; // use jpg or png
+bool MapTileSettings::debug = false;                                         // draw tile frame and info
+bool MapTileSettings::save = false;                                          // ok to save tile back to SD card
+#ifdef MAP_TILES_GREY
+bool MapTileSettings::colorTiles = false;
+#else
+bool MapTileSettings::colorTiles = true;
+#endif
