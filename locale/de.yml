@@ -1,0 +1,156 @@
+de:
+  'User name: %s': 'Benutzer: %s'
+  'Device Role: %s': 'Gerätemodus: %s'
+  no new messages: keine Nachrichten
+  1 of 1 nodes online: 1 Gerät online
+  DEL: ~
+  'User name: ': 'Benutzer: '
+  'Modem Preset: LONG FAST': 'Modem: LONG FAST'
+  'Channel: LongFast': 'Gruppen-Kanäle: LongFast'
+  'Role: Client': 'Gerätemodus: Client'
+  'Screen Timeout: 60s': 'Bild aus: 60s'
+  'Screen Brightness: 60%': 'Bildschirmhelligkeit: 60%'
+  'Screen Calibration: default': 'Kalibrierung: Standard'
+  'Input Control: none/none': 'Eingabe: ohne/ohne'
+  'Message Alert Buzzer: on': 'Akustischer Alarm: ein'
+  'Language: English': 'Sprache: Deutsch'
+  Configuration Reset: Einstellungen zurücksetzen
+  Reboot / Shutdown: Neustart / Ausschalten
+  Group Channels: Gruppen Kanäle
+  no messages: keine Nachrichten
+  Settings: Konfiguration
+  Settings (advanced): Erweiterte Konfiguration
+  Locations Map: Karte
+  'Locations Map (%d/%d)': 'Karte (%d/%d)'
+  no chats: Keine Gespräche
+  Node Options: Optionen
+  Short Name: Kurzname
+  Long Name: Langname
+  <unset>: <leer>
+  'FrequencySlot: 1 (902.0MHz)': 'Frequenz: 1 (902.0MHz)'
+  'Brightness: 60%': 'Helligkeit: 60%'
+  'Timeout: 60s': 'Bild aus: 60s'
+  Mouse: Maus
+  Keyboard: Tastatur
+  Message Alert: Alarm
+  "NodeDB Reset\nFactory Reset": |-
+    Datenbank leeren
+    Werkseinstellungen
+  Channel Name: Kanalname
+  Pre-shared Key: Schlüssel
+  "New Message from\n": |
+    Neue Nachricht von
+  Resync...: Synchronisieren...
+  'Screen Calibration: %s': 'Kalibrierung: %s'
+  done: erledigt
+  default: Standard
+  'Region: %s': ~
+  'Modem Preset: %s': 'Voreinstellung: %s'
+  'Channel: %s': 'Gruppen-Kanäle: %s'
+  'Language: %s': 'Sprache: %s'
+  'Theme: Dark': 'Farbschema: Dunkel'
+  Mesh Detector: Mesh-Detektor
+  Signal Scanner: Signalstärke
+  Trace Route: Route verfolgen
+  Neighbors: Nachbarn
+  Statistics: Paketstatistik
+  Packet Log: Paket Historie
+  Settings & Tools: Konfiguration & Funktion
+  Node Search: Gerätesuche
+  "Client\nClient Mute\n-- deprecated --\nRouter\nRepeater\nTracker\nSensor\nTAK\nClient Hidden\nLost & Found\nTAK Tracker": ~
+  Screen Lock: Bildschirm
+  Lock PIN: PIN
+  Ringtone: Klingelton
+  Zone: Gebiet
+  City: Stadt
+  Unknown: Unbekannt
+  Offline: Abwesend
+  Public Key: PKC Schlüssel
+  Hops away: ~
+  MQTT: ~
+  Position: ~
+  Name: ~
+  Active Chat: Aktiver Chat
+  Telemetry: Telemetrie
+  IAQ: ~
+  Start: ~
+  'Theme: %s': 'Farbschema: %s'
+  'uptime 00:00:00': ~
+  "Heap: 0\nLVGL: 0": ~
+  Meshtastic: ~
+  Packet Statistics: Paketstatistik
+  none: keine
+  Default: Standard
+  OK: ~
+  Cancel: Abbruch
+  'FrequencySlot: %d (%g MHz)': 'Frequenz: %d (%g MHz)'
+  'Brightness: %d%%': 'Helligkeit: %d%%'
+  'Timeout: off': 'Display aus: aus'
+  'Timeout: %ds': 'Display aus: %ds'
+  Stop: Stopp
+  "choose\nnode": |-
+    wähle
+    Nachbar
+  choose target node: wähle Ziel
+  'heard: !%08x': 'Gehört: !%08x'
+  'Packet Log: %d': 'Paket Historie: %d'
+  'Screen Timeout: off': 'Display abschalten: nie'
+  'Screen Timeout: %ds': 'Display abschalten: %ds'
+  'Screen Brightness: %d%%': 'Helligkeit: %d%%'
+  'Screen Lock: %s': 'Bildschirmsperre: %s'
+  'on': ein
+  'off': aus
+  'Message Alert: %s': 'Klingelton: %s'
+  Util %0.1f%%  Air %0.1f%%: ~
+  'hops: %d': ~
+  unknown: unbekannt
+  <no name>: <kein Name>
+  '%d active chat(s)':
+    one: '%d aktives Gespräch'
+    other: '%d aktive Gespräche'
+  "New message from \n%s": |-
+    Neue Nachricht von 
+    %s
+  'Input Control: %s/%s': 'Eingabegeräte: %s/%s'
+  '%d of %d nodes online':
+    one: '1 Gerät online'
+    other: '%d / %d Geräte online'
+  Filtering ...: Filtern ...
+  'Filter: %d of %d nodes': 'Filter: %d / %d Geräte'
+  now: jetzt
+  '%d new message': '%d Nachricht'
+  '%d new messages': '%d Nachrichten'
+  'uptime: %02d:%02d:%02d': ~
+  "Heap: %d (%d%%)\nLVGL: %d (%d%%)": ~
+  Tools: Funktionen
+  Filter: ~
+  Highlight: Hervorheben
+  choose node: wähle Nachbar
+  Primary Channel: Primärkanal
+  Secondary Channels: Sekundärkanäle
+  "Dark\nLight": |-
+    Dunkel
+    Hell
+  Resync ...: Synchronisierung ...
+  Rebooting ...: Neustart ...
+  Shutting down ...: Herunterfahren ...
+  LoRa 0.0 MHz: ~
+  silent: stumm
+  'WiFi: <not setup>': 'WiFi: <kein Passwort>'
+  LoRa TX off!: LoRa TX ausgeschaltet!
+  WiFi SSID: ~
+  WiFi pre-shared Key: WiFi Passwort
+  'WiFi: %s': ~
+  <not set>: <nicht gesetzt>
+  Banner & Sound: Banner & Ton
+  Banner only: nur Banner
+  Sound only: nur Ton
+  'Lock: off/off': 'Sperre aus/aus'
+  Settings Lock: Einstellungen
+  'Lock: %s/%s': 'Sperre: %s/%s'
+  Enter Text ...: Nachricht ...
+  '!Enter Filter ...': '!Filter Name...'
+  Enter Filter ...: Filter Name...
+  region unset: keine Region
+  no signal: kein Signal
+  Restoring messages ...: Lade Nachrichten...

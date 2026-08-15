@@ -1,0 +1,164 @@
+es:
+  no new messages: Sin mensajes nuevos
+  1 of 1 nodes online: 1 de 1 nodos activos
+  DEL: BOR
+  'User name: ': 'Nomb. Usua:'
+  'Modem Preset: LONG FAST': ~
+  'Channel: LongFast': 'Canal: LongFast'
+  'Role: Client': 'Rol: Cliente'
+  'Screen Timeout: 60s': 'Apagado pantalla: 60s'
+  'Screen Brightness: 60%': 'Brillo pantalla: 60%'
+  'Screen Calibration: default': 'Calibración Pantalla: predet.'
+  'Input Control: none/none': ~
+  'Message Alert Buzzer: on': 'Zumbador en mensaje: on'
+  'Language: English': 'Idioma: Español'
+  Configuration Reset: Reiniciar Configuración
+  Reboot / Shutdown: Reiniciar / Apagar
+  Group Channels: Canales grupales
+  no messages: sin mensajes
+  Settings: Configuración
+  Settings (advanced): Configur. avanzada
+  Locations Map: Mapa de localizaciones
+  'Locations Map (%d/%d)': ~
+  no chats: sin chats
+  Node Options: Opciones de Nodos
+  Short Name: Nombre Corto
+  Long Name: Nombre Largo
+  <unset>: <vacío>
+  'FrequencySlot: 1 (902.0MHz)': ~
+  'Brightness: 60%': 'Brillo: 60%'
+  'Timeout: 60s': ~
+  Mouse: Ratón
+  Keyboard: Teclado
+  Message Alert: Alerta mensaje
+  "NodeDB Reset\nFactory Reset": "Borrar NodeDB\nReini. Fábrica"
+  Channel Name: Nombre Canal
+  Pre-shared Key: Clave Precomp.
+  "New Message from\n": "Nuevo msg de\n"
+  'User name: %s': 'Nombre: %s'
+  'Device Role: %s': 'Rol Dispo.: %s'
+  'Screen Calibration: %s': 'Calibración pant.: %s'
+  done: hecho
+  default: defecto
+  'Region: %s': 'Región: %s'
+  'Modem Preset: %s': ~
+  'Channel: %s': 'Canal: %s'
+  'Language: %s': 'Idioma: %s'
+  'Screen Lock: off': 'Bloq. Panta.: off'
+  'Theme: Dark': 'Tema: Oscuro'
+  Mesh Detector: Detector Mesh
+  Signal Scanner: Escáner de señal
+  Trace Route: Trazar ruta
+  Neighbors: Vecinos
+  Statistics: Estadísticas
+  Packet Log: Registro de paquetes
+  Settings & Tools: Config y herramientas
+  Node Search: Buscar nodo
+  Screen Lock: Bloqueo Pantalla
+  Lock PIN: PIN bloq.
+  Ringtone: Timbre
+  Zone: Zona
+  City: Ciudad
+  Unknown: Desconocido
+  Offline: Inactivo(s)
+  Public Key: Clave Pública
+  Hops away: Saltos
+  MQTT: ~
+  Position: Posición
+  Name: Nombre
+  Active Chat: Chat Activo
+  Telemetry: Telemetría
+  IAQ: ~
+  Start: Iniciar
+  'Theme: %s': 'Tema: %s'
+  'uptime 00:00:00': ~
+  "Heap: 0\nLVGL: 0": ~
+  Meshtastic: ~
+  Packet Statistics: Estadísticas
+  "LONG FAST\nLONG SLOW\n-- deprecated --\nMEDIUM SLOW\nMEDIUM FAST\nSHORT SLOW\nSHORT FAST\nLONG MODERATE\nSHORT TURBO": "LONG FAST\nLONG SLOW\n-- obsoleto --\nMEDIUM SLOW\nMEDIUM FAST\nSHORT SLOW\nSHORT FAST\nLONG MODERATE\nSHORT TURBO"
+  "Client\nClient Mute\nRouter\n-- deprecated --\nRepeater\nTracker\nSensor\nTAK\nClient Hidden\nLost & Found\nTAK Tracker": "Client\nClient Mute\nRouter\n-- obsoleto --\nRepeater\nTracker\nSensor\nTAK\nClient Hidden\nLost & Found\nTAK Tracker"
+  "Dark\nLight": "Oscuro\nClaro"
+  none: ~
+  Default: ~
+  OK: ~
+  Cancel: Cancelar
+  'FrequencySlot: %d (%g MHz)': ~
+  'Brightness: %d%%': 'Brillo : %d%%'
+  'Timeout: off': ~
+  'Timeout: %ds': ~
+  Stop: Parar
+  "choose\nnode": "escoge\nnodo"
+  choose target node: escoge nodo de destino
+  'heard: !%08x': 'oído: !%08x'
+  'Packet Log: %d': 'Reg. Paquetes: %d'
+  'Screen Timeout: off': 'Apag. pantalla: off'
+  'Screen Timeout: %ds': 'Apag. pantalla: %ds'
+  'Screen Brightness: %d%%': 'Brillo pantalla: %d%%'
+  'Screen Lock: %s': 'Bloq. pantalla: %s'
+  'on': activo
+  'off': inactivo
+  'Message Alert: %s': 'Alertar mensaje: %s'
+  Util %0.1f%%  Air %0.1f%%: Util %0.1f%%  Aire %0.1f%%
+  'hops: %d': 'saltos: %d'
+  unknown: desconocido
+  <no name>: <sin nombre>
+  '%d active chat(s)':
+    one: 1 chat activo
+    other: '%d chat activos'
+  "New message from \n%s": "Nuevo mensaje de:\n%s"
+  'Input Control: %s/%s': ~
+  '%d of %d nodes online':
+    one: 1 nodo activo
+    other: '%d de %d nodos activos'
+  Filtering ...: Filtrando ...
+  'Filter: %d of %d nodes': 'Filtro: %d de %d nodos'
+  now: ahora
+  '%d new message': '%d mensaje nuevo'
+  '%d new messages': '%d mensajes nuevos'
+  'uptime: %02d:%02d:%02d': 'encendido: %02d:%02d:%02d'
+  "Heap: %d (%d%%)\nLVGL: %d (%d%%)": ~
+  Tools: Herramientas
+  Filter: Filtro
+  Highlight: Resalte
+  Primary Channel: Canal Primario
+  Secondary Channels: Canal Secundario
+  Resynch ...: Resincronizando ...
+  Rebooting ...: Reiniciando ...
+  Shutting down ...: Apagando ...
+  LoRa 0.0 MHz: ~
+  silent: silenciado
+  'WiFi: <not setup>': 'WiFi: <no configurada>'
+  LoRa TX off!: LoRa TX apagada!
+  WiFi SSID: Nombre de la WiFi
+  WiFi pre-shared Key: Clave de la WiFi
+  'WiFi: %s': ~
+  <not set>: <vacío>
+  Banner & Sound: Visual y sonora
+  Banner only: Solo visual
+  Sound only: Solo Sonora
+  'Lock: off/off': 'Bloqueo: no/no'
+  Settings Lock: Bloqueo config
+  'Lock: %s/%s': 'Bloqueo: %s/%s'
+  Enter Text ...: Escribe un mensaje...
+  '!Enter Filter ...': '!Introduce filtro...'
+  Enter Filter ...: Introduce filtro ...
+  region unset: región no configurada
+  no signal: sin señal
+  Restoring messages ...: Restaurando mensajes
+  no SD card detected: SD no detectada
+  Backup & Restore: Salvar y Restaurar
+  "Client\nClient Mute\nRouter\nRepeater\nTracker\nSensor\nTAK\nClient Hidden\nLost & Found\nTAK Tracker": ~
+  Backup: Salvar
+  Restore: Restaurar
+  Public/Private Key: Clave Pub/Privada
+  "NodeDB Reset\nFactory Reset\nClear Chat History": "Borrar NodeDB\nReini. Fábrica\nBorrar Histórico Mensajes"
+  Channel: Canal
+  Please set region and name: Por favor, escoge nombre y región
+  Region: Región
+  "Client\nClient Mute\nTracker\nSensor\nTAK\nClient Hidden\nLost & Found\nTAK Tracker": ~
+  '>> Programming mode <<': '>> Modo Programación <<'
+  'Failed to write keys!': Fallo al salvar!
+  'Failed to restore keys!': Fallo al restaurar!
+  'Failed to parse keys!': Error procesando claves!
+  'Failed to retrieve keys!': Error obteniendo ficheros!
+  "%s (%0.1f GB)\nUsed: %d MB (%d%%)": "%s (%0.1f GB)\nUsado: %d MB (%d%%)"

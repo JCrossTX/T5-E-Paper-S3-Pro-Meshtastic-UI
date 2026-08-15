@@ -1,0 +1,169 @@
+el:
+  Reboot into BaseUI?: Επανεκκίνηση σε BaseUI;
+  no new messages: κανένα νέο μήνυμα
+  1 of 1 nodes online: 1 Κόμβος online
+  uptime 00:00:00: Χρόν.λειτ. 00:00:00
+  LoRa 0.0 MHz: ~
+  no signal: Χωρίς Σήμα
+  silent: Σίγαση
+  no SD card detected: Δεν βρέθηκε κάρτα SD
+  "Heap: 0\nLVGL: 0": ~
+  no public key: Χωρίς κοινό κλειδί
+  DEL: ~
+  map tiles not found!: Δεν βρέθηκαν πλακίδια χάρτη!
+  Settings: Ρυθμίσεις
+  'User name: ': 'Όνομα χρήστη: '
+  'Modem Preset: LONG FAST': 'Προκαθ. Modem: LONG FAST'
+  'Channel: LongFast': 'Κύριο Κανάλι: LongFast'
+  'Role: Client': 'Ρόλος: Client'
+  'WiFi: <not setup>': 'WiFi: <χωρίς ρύθμιση>'
+  'Screen Timeout: 60s': 'Λήξη Οθόνης: 60s'
+  'Lock: off/off': 'Κλείδωμα: off/off'
+  'Screen Brightness: 60%': 'Φωτεινότητα: 60%'
+  'Theme: Dark': 'Θέμα: Σκούρο'
+  'Screen Calibration: default': 'Διαμέτρ. Οθόνης: Προεπιλογή'
+  'Input Control: none/none': 'Έλεγχος Εισόδ: καμία/καμία'
+  'Message Alert Buzzer: on': 'Buzzer Ειδοποίησης: ενεργό'
+  'Language: English': 'Γλώσσα: Ελληνικά'
+  Configuration Reset: Επαναφορά ρυθμίσεων
+  Backup & Restore: Αντίγρ. Ασφαλείας
+  Reboot / Shutdown: Επανεκκίνηση / Τερματισμός
+  Tools: Εργαλεία
+  Mesh Detector: Ανιχνευτής Δικτύων
+  Signal Scanner: Σαρωτής Σήματος
+  Trace Route: Εντοπ. Δρομολόγησης
+  Neighbors: Γείτονες
+  Statistics: Στατιστικά
+  Packet Log: Καταγραφή Πακέτων
+  Meshtastic: ~
+  Group Channels: Ομαδικά Κανάλια
+  no messages: κανένα μήνυμα
+  Settings & Tools: Ρυθμίσεις & Εργαλεία
+  Settings (advanced): Ρυθμίσεις (προχωρ.)
+  Locations Map: Χάρτης Τοποθεσιών
+  no chats: Κανένας διάλογος
+  Node Search: Αναζήτηση Κόμβων
+  Packet Statistics: Στατιστικά Πακέτων
+  Node Options: Επιλογές Κόμβου
+  LoRa TX off!: ~
+  Short Name: Σύντομο Όνομα
+  Long Name: Πλήρες Όνομα
+  Primary Channel: Κύριο Κανάλι
+  <unset>: <αόριστο>
+  Secondary Channels: Δευτερεύοντα Κανάλια
+  "LONG FAST\nLONG MODERATE\nLONG TURBO\nMEDIUM FAST\nMEDIUM SLOW\nSHORT FAST\nSHORT TURBO\nSHORT SLOW": ~
+  "Client\nClient Mute\nRouter\nRepeater\nTracker\nSensor\nTAK\nClient Hidden\nLost & Found\nTAK Tracker\nRouter Late": ~
+  WiFi SSID: ~
+  WiFi pre-shared Key: ~
+  'Brightness: 60%': 'Ένταση: 60%'
+  "Dark\nLight": "Σκούρο\nΑνοιχτό"
+  'Timeout: 60s': 'Λήξη: 60s'
+  Screen Lock: Κλείδ. Οθόνης
+  Settings Lock: Κλείδ. Ρυθμίσεων
+  Lock PIN: PIN
+  Mouse: Ποντίκι
+  none: κανένα
+  Keyboard: Πληκτρολόγιο
+  Message Alert: Ενεργοποίηση
+  Ringtone: Ήχος
+  Default: Προεπιλογή
+  Zone: Ζώνη
+  City: Πόλη
+  Backup: Δημιουρ.Αντιγρ.
+  Restore: Επαναφ.Αντιγρ.
+  Public/Private Key: ~
+  "NodeDB Reset\nFactory Reset\nClear Chat History": "Καθαρ. NodeDB\nΕπαν.Εργοσ. Ρυθμίσεων\nΚαθαρ.Ιστ. Συνομιλιών"
+  Channel Name: Όνομα Καναλιού
+  Pre-shared Key: ~
+  Filter: Φίλτρο
+  Unknown: Άγνωστες
+  Offline: Αποσυνδέμενες
+  Public Key: Κοινό Κλειδί
+  Channel: Κανάλι
+  Hops away: Αναμεταδόσεις
+  MQTT: ~
+  Position: Γεωγραφ. Θέση
+  Name: Όνομα
+  Highlight: Επισήμανση
+  Active Chat: Ενεργή Συζήτηση
+  Telemetry: Τηλεμετρία
+  IAQ: Ποιότητα Αέρα (ΠΑΕΧ)
+  Start: Έναρξη
+  "choose\nnode": "επιλογή\nκόμβου"
+  choose target node: επιλογή στόχου
+  "New Message from\n": "Νέο μήνυμα από\n"
+  Restoring messages ...: Επαναφορά μηνυμάτων...
+  Please set region and name: Ορίστε περιοχή και όνομα
+  Region: Περιοχή
+  Resync ...: Συγχρονισμός ...
+  OK: ~
+  Cancel: Άκυρο
+  now: τώρα
+  'Lock: %s/%s': Κλείδωμα Συσκευής
+  'on': ~
+  'off': ~
+  'Screen Calibration: %s': 'Διαμέτρ. Οθόνης: %s'
+  done: έγινε
+  default: προεπιλογή
+  "Client\nClient Mute\nTracker\nSensor\nTAK\nClient Hidden\nLost & Found\nTAK Tracker": ~
+  Rebooting ...: Επανεκκίνηση ...
+  '>> Programming mode <<': '>> Λειτ. Προγρ/σμού <<'
+  Enter Text ...: Εισάγετε Κείμενο ...
+  '!Enter Filter ...': Εισάγετε Φίλτρο ...
+  Enter Filter ...: Εισάγετε Φίλτρο ...
+  'FrequencySlot: %d (%g MHz)': 'Συχνότητα: %d (%g MHz)'
+  'Brightness: %d%%': 'Ένταση: %d%%'
+  'Timeout: off': 'Λήξη: off'
+  'Timeout: %ds': 'Λήξη: %ds'
+  No map tiles found on SDCard!: Δεν βρέθηκαν πλακίδια χάρτη στην κάρτα SD!
+  Locations Map (%d/%d): Χάρτης Τοποθεσιών (%d/%d)
+  Stop: Διακοπή
+  'heard: !%08x': '!%08x'
+  'Packet Log: %d': 'Καταγραφή Πακέτων: %d'
+  'Language: %s': 'Γλώσσα: %s'
+  'Screen Timeout: off': 'Αναμονή Οθόνης: off'
+  'Screen Timeout: %ds': 'Αναμονή Οθόν.: %ds'
+  'Screen Brightness: %d%%': 'Φωτεινότητα: %d%%'
+  'Theme: %s': 'Θέμα: %s'
+  'Region: %s': 'Περιοχή: %s'
+  'User name: %s': 'Όνομα χρήστη: %s'
+  'Device Role: %s': 'Ρόλος Συσκ.: %s'
+  'Modem Preset: %s': 'Προκαθ. Modem: %s'
+  'WiFi: %s': ~
+  <not set>: <χωρίς ρύθμιση>
+  Util %0.1f%%  Air %0.1f%%: ~
+  'hops: %d': 'Αναμεταδόσεις: %d'
+  unknown: άγνωστο
+  Connected!: Συνδεμένο!
+  Disconnected!: Αποσυνδέμενο!
+  Shutting down ...: Τερματισμός ...
+  'Modem Preset: custom': 'Προκαθ. Modem: προσαρμοσμένο'
+  region unset: Περιοχή μη-ορισμ.
+  Banner & Sound: Πλαίσιο & Ήχος
+  Banner only: Πλαίσιο μόνο
+  Sound only: Ήχος μόνο
+  'Message Alert: %s': 'Ειδοποιήσεις: %s'
+  'Channel: %s': 'Κύριο Κανάλι: %s'
+  Failed to write keys!: Αποτυχία εγγρ. κλειδιών!
+  Failed to restore keys!: Αποτυχία επαναφ. κλειδιών!
+  Failed to parse keys!: Αποτυχία χρήσης κλειδιών!
+  Failed to retrieve keys!: Αποτυχία λήψης κλειδιών!
+  '%d active chat(s)':
+    one: '%d ενεργ. συνομιλία'
+    other: '%d ενεργ. συνομιλίες'
+  "New message from \n%s": "Νέο μήνυμα από \n%s"
+  'Input Control: %s/%s': 'Έλεγχος Εισόδου: %s/%s'
+  '%d of %d nodes online':
+    one: 1 Κόμβος online
+    other: '%d / %d Κόμβοι online'
+  'Filter: %d of %d nodes': 'Φίλτρο: %d από %d κόμβοι'
+  '%d new message': '%d νέο μήνυμα'
+  '%d new messages': '%d νέα μηνύματα'
+  'uptime: %02d:%02d:%02d': 'Χρόνος Λειτ.: %02d:%02d:%02d'
+  "%s: %d GB (%s)\nUsed: %0.2f GB (%d%%)": "%s: %d GB (%s)\nΧρησ.: %0.2f GB (%d%%)"
+  SD slot empty: SD υποδοχή άδεια
+  SD invalid format: SD άκυρη μορφή
+  SD mbr not found: SD mbr δεν βρέθηκε
+  SD card error: SD σφάλμα κάρτας
+  SD unknown error: SD άγνωστο σφάλμα
+  "Heap: %d (%d%%)\nLVGL: %d (%d%%)": ~
